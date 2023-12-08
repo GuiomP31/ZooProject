@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mon Zoo</string>
+    <string name="map_title">Carte du Zoo</string>
+    <string name="aquarium_title">Aquarium</string>
+    <string name="popcorn_title">Popcorn</string>
+    <string name="popcorn_warning">Pas de popcorn aux poissons (%1$d ms)</string>
+    <string name="alert_title">Alerte</string>
+    <string name="alert_location">Lieu</string>
+    <string name="alert_informations">Informations</string>
+    <string name="alert_send">Envoyer</string>
+    <string name="alert_please">Veuillez appuyer sur envoyer svp!</string>
+
+    <string name="home_menu_options">Options</string>
+    <string name="home_menu_save">Enregistrer</string>
+</resources>

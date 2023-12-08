@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_map"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="@string/map_title"
+        android:showAsAction="ifRoom|withText"/>
+    <!--drawable standard android-->
+
+   <item android:id="@+id/menu_options"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:showAsAction="ifRoom">
+
+        <menu>
+            <item android:id="@+id/menu_save"
+                android:icon="@android:drawable/ic_menu_save"
+                android:checkable="true"
+                android:title="@string/home_menu_save"/>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="stub" translatable="false">*****</string>
+    <string name="app_name">My Zoo</string>
+    <string name="map_title">Zoo Map</string>
+    <string name="aquarium_title">Aquarium Map</string>
+    <string name="popcorn_title">Popcorn</string>
+    <string name="popcorn_warning">No popcorn for fishes (%1$d ms)</string>
+    <string name="home_infos"> Voici une application principale de <b> mon zoo </b>. Créez par Pastor Guillaume, le 22 Mai 2020. Il couvre une surface de 164000m <sup> 2 </sup>. \n Pour plus d\' informations veuillez apeller le 0206054089 </string>
+
+    <string name="alert_title">Alert</string>
+    <string name="alert_thetitle">Title</string>
+    <string name="alert_location">Location</string>
+    <string name="alert_informations">Informations</string>
+    <string name="alert_send">Send</string>
+    <string name="alert_please">Please click to send the message </string>
+
+    <string name="home_menu_options">Preferences</string>
+    <string name="home_menu_save">Save</string>
+
+
+</resources>
+
+
+
+
+
